@@ -1,0 +1,33 @@
+id: IA1D62DD1
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-28T16:37:11+00:00'
+last_modified: '2022-06-09T05:09:42.868060+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3PD445
+  title: བྱང་ཆུབ་ལམ་རིམ་ཁྲིད་ཡིག་སྐོར་དཔེ་རྙིང་དཔེ་དཀོན།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessRestrictedTemporarily
+  restrictedInChina: false
+  base:
+    13AF:
+      image_group_id: I3PD1189
+      title: ''
+      total_pages: 364
+      order: 1
+      base_file: 13AF.txt
+    DCC5:
+      image_group_id: I3PD1190
+      title: ''
+      total_pages: 790
+      order: 2
+      base_file: DCC5.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
